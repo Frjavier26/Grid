@@ -57,6 +57,7 @@ footer {
     align-items: center;
     background-color: rgb(218, 190, 86);
     border: solid 1px rgb(217, 124, 25);
+    gap: 10px;
 }
 .card img{
     width: 100%;
